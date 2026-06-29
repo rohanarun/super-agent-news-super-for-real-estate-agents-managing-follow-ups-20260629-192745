@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "memeburn.com",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "alm.com",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5"
+    },
+    {
+      "source": "realestatenews.com",
+      "title": "MLS tech push focuses on AI, data access, consumer engagement",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEx0ODhFQTVkQkwtY0pELVdidTFaUTY2N1lFZ3dLU0V1d0ttb3pDM1RuRk0xYTcxdWFaS3BVZTNpR2VWYzFTX0hIc09NVVVJSjktU0hwVTBJYmwzRGtCOU1ma2pRMmlyQjMxWlRJQ3dOXzZqTDI2SzJqRTFrRW5Yemp2NUpUZUIxZG5UZkF2YzJiRkZPaUNQWEpzQl8tSlFlZ1lz?oc=5"
+    },
+    {
+      "source": "blockchaincouncil.org",
+      "title": "Loop Engineering for Automation with AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXV1LWJBNTcyN2l2Y19ZampfUENLcXlyTzZFcG1PenVFZGk3ODFRR2NhVGFMMnlXaWtMenQ2ODdwT1oxMnlFZjZOcGVrQWxfdTBFTFJHdlU3TDBpblVIUkxsak9OQ2YzTDFCeFBiWTZ2SlN1SU1RejNYX1dSS2tMVWpGaXR6UkI1akhvd3VfRmQ?oc=5"
+    },
+    {
+      "source": "free.ai",
+      "title": "CSS generator tools for modern responsive layouts",
+      "url": "https://free.ai/code/css/"
+    },
+    {
+      "source": "stablenumbers.com",
+      "title": "Custom Stylesheet Generator",
+      "url": "https://stablenumbers.com/devtools/stylesheet-generator.php"
+    }
+  ],
+  "design_plan": "rng_seed=42; audience=real_estate_agents; AIDA=pass; hero_lines=2.4; hero_max_width=1120; bento_density=grid-auto-flow:dense; competitors_checked=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=AA; animations_guarded=true",
+  "generated_at": "2026-06-29T19:27:52.240602+00:00",
+  "headline": "Super for real estate agents managing follow\u2011ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion\u2011focused niche landing page for real estate agents who live inside CRMs, MLS portals, email, calendars, and listing tools. Grounded in current news about computer\u2011use AI agents and workflow automation, this page positions Super as the sharper alternative for repeated, real\u2011world computer workflows thanks to its personal agents and reusable computer-use cache."
+}
